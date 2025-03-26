@@ -3,6 +3,7 @@
 ## Project Overview
 This project is a **fraud detection system** that uses **machine learning** to classify transactions as **fraudulent** or **legitimate**. The dataset used is the **Credit Card Fraud Detection Dataset**, and we apply **undersampling** to handle class imbalance.
 
+
 ## Features
 - Data Preprocessing (Handling missing values, feature scaling, class balancing)
 - Machine Learning Model (Random Forest)
@@ -23,20 +24,26 @@ pip install -r requirements.txt
 ```
 
 
+
 ## 2. Dataset
 Download the **credit_card_data.csv** dataset and place it in your project directory.
 
 
+
 ## 3. Running the Project
+
 ### **Step 1: Load and Preprocess Data**
 The first step is to load the dataset, handle missing values and apply feature scaling. The class imbalance is handled using **Random Undersampling**.
+
 
 ### **Step 2: Train the Model**
 A **Random Forest Classifier** ) is trained on the preprocessed dataset.
 
+
 ### **Step 3: Evaluate the Model**
 After training, the model's performance is evaluated using:
 - Classification Report (Precision, Recall, F1-score)
+
 
 ### **Step 4: Run the CLI for Fraud Detection**
 Once the model is trained, you can test new transactions using the **Command-Line Interface (CLI)**.
@@ -75,6 +82,7 @@ If the model detects fraud, it will print:
 ```bash
 Fraudulent Transaction Detected!
 ```
+
 
 
 ## 6. Notes
