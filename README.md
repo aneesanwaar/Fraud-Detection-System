@@ -89,14 +89,6 @@ Fraudulent Transaction Detected!
 - If using **Jupyter Notebook**, ensure all code cells are executed before running the CLI.
 - Modify the **train_test_split()** parameters if you want a different train-test split ratio.
 
----
 
-## 7. Future Improvements
-- Implement a **web interface** for user-friendly testing.
-- Experiment with different **machine learning models**.
-- Use **deep learning** (e.g., LSTMs) for better fraud detection.
 
----
-
-This project is designed for learning purposes and demonstrates how to handle fraud detection using machine learning. Feel free to improve and expand it!
 
