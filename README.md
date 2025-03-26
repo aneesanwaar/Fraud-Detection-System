@@ -24,12 +24,13 @@ pip install -r requirements.txt
 ```
 
 
+```
 
 ## 2. Dataset
 Download the **credit_card_data.csv** dataset and place it in your project directory.
 
 
-
+```
 ## 3. Running the Project
 
 ### **Step 1: Load and Preprocess Data**
