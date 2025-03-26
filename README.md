@@ -18,7 +18,7 @@ Clone the repository and install all required dependencies using:
 
 ```
 git clone [<repository_url>](https://github.com/aneesanwaar/Fraud-Detection-System-Task-3.git)
-cd fraud-detection-system
+cd fraud-detection-system-Task-3
 pip install -r requirements.txt
 ```
 
