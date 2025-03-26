@@ -10,7 +10,7 @@ This project is a **fraud detection system** that uses **machine learning** to c
 - Model Evaluation (Precision, Recall, F1-score)
 - Command-Line Interface (CLI) for testing new transactions
 
-===
+---
 
 ## 1. Installation & Setup
 ### **Prerequisites**
