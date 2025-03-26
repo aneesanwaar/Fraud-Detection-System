@@ -9,7 +9,7 @@ This project is a **fraud detection system** that uses **machine learning** to c
 - Model Evaluation (Precision, Recall, F1-score)
 - Command-Line Interface (CLI) for testing new transactions
 
----
+
 
 ## 1. Installation & Setup
 ### **Prerequisites**
@@ -23,13 +23,9 @@ pip install -r requirements.txt
 ```
 
 
-
----
-
 ## 2. Dataset
 Download the **credit_card_data.csv** dataset and place it in your project directory.
 
----
 
 ## 3. Running the Project
 ### **Step 1: Load and Preprocess Data**
@@ -46,7 +42,7 @@ After training, the model's performance is evaluated using:
 Once the model is trained, you can test new transactions using the **Command-Line Interface (CLI)**.
 
 
----
+
 
 ## 4. Command-Line Interface (CLI) Usage
 The CLI allows you to test transactions in two ways:
@@ -80,7 +76,6 @@ If the model detects fraud, it will print:
 Fraudulent Transaction Detected!
 ```
 
----
 
 ## 6. Notes
 - Make sure to define `scaler` for feature scaling before using the CLI.
