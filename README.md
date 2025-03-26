@@ -13,11 +13,16 @@ This project is a **fraud detection system** that uses **machine learning** to c
 
 ## 1. Installation & Setup
 ### **Prerequisites**
-Make sure you have **Python 3.x** installed. You will also need the following Python libraries:
 
-```bash
-pip install pandas numpy scikit-learn
+Clone the repository and install all required dependencies using:
+
 ```
+git clone <repository_url>
+cd fraud-detection-system
+pip install -r requirements.txt
+```
+
+
 
 ---
 
@@ -40,11 +45,6 @@ After training, the model's performance is evaluated using:
 ### **Step 4: Run the CLI for Fraud Detection**
 Once the model is trained, you can test new transactions using the **Command-Line Interface (CLI)**.
 
-Run the following command in your terminal or Jupyter Notebook:
-
-```bash
-python fraud_detection.py
-```
 
 ---
 
