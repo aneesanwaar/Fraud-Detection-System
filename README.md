@@ -18,7 +18,7 @@ This project is a **fraud detection system** that uses **machine learning** to c
 Clone the repository and install all required dependencies using:
 
 ```
-git clone https://github.com/aneesanwaar/Fraud-Detection-System-Task-3.git
+git clone https://github.com/aneesanwaar/Fraud-Detection-System.git
 cd fraud-detection-system-Task-3
 pip install -r requirements.txt
 ```
